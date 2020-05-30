@@ -1,4 +1,11 @@
-p {
-	font-size: 20px
-	font-color: red;
+ul {
+  font-size: 20px;
+  color: green;
 }
+
+ol {
+  font-size: 18px;
+  color: green;
+}
+
+/*# sourceMappingURL=style1.css.map */
